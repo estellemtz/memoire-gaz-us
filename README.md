@@ -3,7 +3,7 @@
 Ce dépôt contient mon mémoire de Master 1 Économétrie Appliquée (Université de Nantes, 2024-2025).
 
  [Mémoire complet](MARTINEZ_Estelle_Mémoire_M1ECAP.pdf)  
- [Note de synthèse](note_synthese.pdf)
+ [Note de synthèse](MARTINEZ_Estelle_NoteSynthèse_M1ECAP.pdf)
 
 ---
 
